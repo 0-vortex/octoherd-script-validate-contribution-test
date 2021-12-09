@@ -1,0 +1,35 @@
+{
+  "name": "octoherd-script-validate-contribution",
+  "version": "0.0.0-development",
+  "type": "module",
+  "exports": "./script.js",
+  "bin": {
+    "octoherd-script-validate-contribution": "./cli.js"
+  },
+  "description": "Script to validate if the contribution still includes boilerplate copy",
+  "scripts": {
+    "start": "node cli.js",
+    "test": "node script.js",
+    "push": "npx @open-sauced/conventional-commit"
+  },
+  "repository": "https://github.com/bdougie/octoherd-script-validate-contribution",
+  "keywords": [
+    "octoherd-script"
+  ],
+  "author": "Brian Douglas (https://bdougie.live)",
+  "license": "ISC",
+  "dependencies": {
+    "@octoherd/cli": "^3.3.1"
+  },
+  "release": {
+    "branches": [
+      "main"
+    ]
+  },
+  "devDependencies": {
+    "@open-sauced/conventional-commit": "^1.0.1"
+  },
+  "publishConfig": {
+    "access": "public"
+  }
+}
