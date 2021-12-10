@@ -5,6 +5,13 @@
 
 > All notable changes to this project will be documented in this file
 
+## [1.1.0](https://github.com/0-vortex/octoherd-script-validate-contribution-test/compare/v1.0.1...v1.1.0) (2021-12-10)
+
+
+### 🍕 Features
+
+* document limitation ([c681601](https://github.com/0-vortex/octoherd-script-validate-contribution-test/commit/c681601474aa28c6a5b030d4919a1e7efb32a31c))
+
 ### [1.0.1](https://github.com/0-vortex/octoherd-script-validate-contribution-test/compare/v1.0.0...v1.0.1) (2021-12-10)
 
 
