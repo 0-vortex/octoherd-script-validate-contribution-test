@@ -7,7 +7,7 @@ on:
 jobs:
   test:
     name: "Test matrix"
-    uses: ./.github/test.yml@main
+    uses: ./.github/workflows/test.yml@main
 
   release:
     environment:
