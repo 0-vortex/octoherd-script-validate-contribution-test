@@ -27,8 +27,9 @@ jobs:
 
       - run: npm test
 
-  # The "test" step can be required in branch protection and does not
-  # change each time the test matrix changes.
+  # the "test" step can NOT be required in branch protection if we
+  # are running semantic-release however it can be reused with a
+  # workflow_call.
   test:
     runs-on: ubuntu-latest
     needs: test_matrix
