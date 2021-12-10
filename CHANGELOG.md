@@ -5,6 +5,28 @@
 
 > All notable changes to this project will be documented in this file
 
+### [1.0.1](https://github.com/0-vortex/octoherd-script-validate-contribution-test/compare/v1.0.0...v1.0.1) (2021-12-10)
+
+
+### 🧑‍💻 Code Refactoring
+
+* block releases a different way ([6985384](https://github.com/0-vortex/octoherd-script-validate-contribution-test/commit/6985384ecc1fbb60781ba6d75a938d8395c17956))
+* make test always fail ([92fcebe](https://github.com/0-vortex/octoherd-script-validate-contribution-test/commit/92fcebec2a851e3badedfb99961a66368e00472c))
+
+
+### ✅ Tests
+
+* now make PRs fail ([f72d350](https://github.com/0-vortex/octoherd-script-validate-contribution-test/commit/f72d3509ee196db9d9e5bb47166c49573fee36c5))
+* the future ([4241ced](https://github.com/0-vortex/octoherd-script-validate-contribution-test/commit/4241ced495da751d024176926fba8267dc51f79a))
+* the present is so boring ([7e74a23](https://github.com/0-vortex/octoherd-script-validate-contribution-test/commit/7e74a2348f080de4590a8b6a7544c893acb347a6))
+
+
+### 🐛 Bug Fixes
+
+* correct workflow path ([a4a2793](https://github.com/0-vortex/octoherd-script-validate-contribution-test/commit/a4a279309ae247443d5674ed20a290a87bb94daa))
+* make adjustments for PR ([3291c7c](https://github.com/0-vortex/octoherd-script-validate-contribution-test/commit/3291c7c49dbbfa53d76fdb7c11cc2588ac382ddc))
+* test correct branch protection rules ([#1](https://github.com/0-vortex/octoherd-script-validate-contribution-test/issues/1)) ([a281590](https://github.com/0-vortex/octoherd-script-validate-contribution-test/commit/a281590e077e29513a8c88b9a85d4d29638a2d1b))
+
 ## 1.0.0 (2021-12-10)
 
 
