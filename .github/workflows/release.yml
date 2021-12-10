@@ -7,7 +7,7 @@ on:
 jobs:
   test:
     name: "Test matrix"
-    uses: ./.github/workflows/test.yml
+    uses: 0-vortex/octoherd-script-validate-contribution-test/.github/workflows/test.yml@main
 
   release:
     environment:
